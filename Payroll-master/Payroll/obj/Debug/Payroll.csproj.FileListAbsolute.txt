@@ -1,0 +1,6 @@
+E:\Code\C#\PDF\敏捷软件开发\Payroll-master\Payroll\bin\Debug\Payroll.dll
+E:\Code\C#\PDF\敏捷软件开发\Payroll-master\Payroll\bin\Debug\Payroll.pdb
+E:\Code\C#\PDF\敏捷软件开发\Payroll-master\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+E:\Code\C#\PDF\敏捷软件开发\Payroll-master\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+E:\Code\C#\PDF\敏捷软件开发\Payroll-master\Payroll\obj\Debug\Payroll.dll
+E:\Code\C#\PDF\敏捷软件开发\Payroll-master\Payroll\obj\Debug\Payroll.pdb

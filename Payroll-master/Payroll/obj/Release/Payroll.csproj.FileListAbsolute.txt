@@ -1,0 +1,11 @@
+E:\Code\C#\PDF\敏捷软件开发\Payroll-master\Payroll\bin\Release\Payroll.dll
+E:\Code\C#\PDF\敏捷软件开发\Payroll-master\Payroll\bin\Release\Payroll.pdb
+E:\Code\C#\PDF\敏捷软件开发\Payroll-master\Payroll\bin\Release\Google.Protobuf.dll
+E:\Code\C#\PDF\敏捷软件开发\Payroll-master\Payroll\bin\Release\MySql.Data.dll
+E:\Code\C#\PDF\敏捷软件开发\Payroll-master\Payroll\bin\Release\Google.Protobuf.xml
+E:\Code\C#\PDF\敏捷软件开发\Payroll-master\Payroll\bin\Release\MySql.Data.xml
+E:\Code\C#\PDF\敏捷软件开发\Payroll-master\Payroll\obj\Release\Payroll.csproj.CoreCompileInputs.cache
+E:\Code\C#\PDF\敏捷软件开发\Payroll-master\Payroll\obj\Release\Payroll.csproj.CopyComplete
+E:\Code\C#\PDF\敏捷软件开发\Payroll-master\Payroll\obj\Release\Payroll.dll
+E:\Code\C#\PDF\敏捷软件开发\Payroll-master\Payroll\obj\Release\Payroll.pdb
+E:\Code\C#\PDF\敏捷软件开发\Payroll-master\Payroll\obj\Release\Payroll.csprojAssemblyReference.cache
